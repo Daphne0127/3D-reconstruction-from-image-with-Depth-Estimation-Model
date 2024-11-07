@@ -11,9 +11,9 @@ My research adapts these models for video sequences to reconstruct 3D scenes by 
 ## Conclusion and Future work
 Based on the previous results, MASt3R significantly outperforms DUStR, and it was observed that Depth Anything’s multi-frame performance yielded less accurate results than single-frame test- ing. However, the requirements for video footage differ among the methods: while MASt3R and DUStR need camera position shifts between frames, Depth Anything only requires changes in view- point from a fixed position.
 Here are some tasks that I believe can be improved in the future, building upon the current tests:
-• Systematic Testing: Collect a more structured test dataset and develop a robust evaluation system for comprehensive assess- ment. This would go beyond visual inspection to determine if the reconstructed scenes match real-world scales accurately, provid- ing a more objective and quantitative basis for evaluation.
-• Establish a Complete Pipeline or User Interface: Develop a comprehensive usage pipeline. After applying the model to in- put videos, also use COLMAP to obtain the scene’s intrinsic and extrinsic parameters for reconstruction. This way, a 3D point cloud can be generated in Open3D, enabling users to complete the modeling process without switching programs.
-• Fine-TunetheModel: Experiment with fine-tuning the model to minimize reconstruction errors and achieve more precise modeling.
+- Systematic Testing: Collect a more structured test dataset and develop a robust evaluation system for comprehensive assess- ment. This would go beyond visual inspection to determine if the reconstructed scenes match real-world scales accurately, provid- ing a more objective and quantitative basis for evaluation.
+- Establish a Complete Pipeline or User Interface: Develop a comprehensive usage pipeline. After applying the model to in- put videos, also use COLMAP to obtain the scene’s intrinsic and extrinsic parameters for reconstruction. This way, a 3D point cloud can be generated in Open3D, enabling users to complete the modeling process without switching programs.
+- Fine-TunetheModel: Experiment with fine-tuning the model to minimize reconstruction errors and achieve more precise modeling.
 
 ## Reference
 - Yang, L., Kang, B., Huang, Z., Zhao, Z., Xu, X., Feng, J., Zhao, H. "Depth Anything V2." *arXiv preprint arXiv:2406.09414*, 2024.
