@@ -9,5 +9,8 @@ My research adapts these models for video sequences to reconstruct 3D scenes by 
 ![](DUSt3r/Method.jpg)
 ![](MASt3r/Method.jpg)
 ## Reference
-- Ke, Y., et al. "Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation." CVPR, 2023.
-- Tanabe, T., Vibol, Y. "DUStR: Geometric 3D Vision Made Easy." IEEE Transactions on Pattern Analysis, 2024.
+- Yang, L., Kang, B., Huang, Z., Zhao, Z., Xu, X., Feng, J., Zhao, H. "Depth Anything V2." *arXiv preprint arXiv:2406.09414*, 2024.
+- Yang, L., Kang, B., Huang, Z., Xu, X., Feng, J., Zhao, H. "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data." *CVPR*, 2024.
+- Leroy, V., Cabon, Y., Revaud, J. "Grounding Image Matching in 3D with MASt3R." *arXiv preprint arXiv:2406.09756*, 2024.
+- Wang, S., Leroy, V., Cabon, Y., Chidlovskii, B., Revaud, J. "DUSt3R: Geometric 3D Vision Made Easy." *CVPR*, 2024.
+- Ke, B., Obukhov, A., Huang, S., Metzger, N., Daudt, R. C., Schindler, K. "Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation." *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
