@@ -8,3 +8,6 @@ My research adapts these models for video sequences to reconstruct 3D scenes by 
 ## Method
 ![](DUSt3r/Method.jpg)
 ![](MASt3r/Method.jpg)
+## Reference
+- Ke, Y., et al. "Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation." CVPR, 2023.
+- Tanabe, T., Vibol, Y. "DUStR: Geometric 3D Vision Made Easy." IEEE Transactions on Pattern Analysis, 2024.
